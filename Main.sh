@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 ## This Program needs root or user with permissions to use yum
+# This is the Main File
 
 f_chkfordia(){
 
